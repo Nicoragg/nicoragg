@@ -4,8 +4,6 @@ Desenvolvedor Backend | PHP • C# • SQL
 Focado em performance, organização e desenvolvimento de sistemas eficientes  
 Experiência com desenvolvimento e suporte em sistemas corporativos  
 
----
-
 ## Sobre mim
 
 Sou desenvolvedor com foco em backend e banco de dados, atuando na criação, manutenção e melhoria de sistemas. Busco sempre escrever código limpo, organizado e com boa performance, contribuindo para soluções escaláveis e eficientes.
@@ -18,7 +16,7 @@ Sou desenvolvedor com foco em backend e banco de dados, atuando na criação, ma
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 <div style="display: inline_block">
