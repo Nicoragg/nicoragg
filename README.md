@@ -1,4 +1,5 @@
 ## Nicolas Gonçalves de Souza
+---
 
 Desenvolvedor | PHP • C# • SQL • HTML5 • CSS 
 Focado em performance, organização e desenvolvimento de sistemas eficientes  
@@ -7,8 +8,6 @@ Experiência com desenvolvimento e suporte em sistemas corporativos
 ## Sobre mim
 
 Sou desenvolvedor com foco em backend e banco de dados, atuando na criação, manutenção e melhoria de sistemas. Busco sempre escrever código limpo, organizado e com boa performance, contribuindo para soluções escaláveis e eficientes.
-
----
 
 ## Tecnologias e Ferramentas
 
@@ -22,8 +21,6 @@ Sou desenvolvedor com foco em backend e banco de dados, atuando na criação, ma
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
----
 
 ## Contato
 
