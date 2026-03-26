@@ -1,17 +1,41 @@
-Desenvolvedor focado em PHP, C# e SQL
-Sempre evoluindo e buscando aprimorar minhas habilidades
-Atuando na área de desenvolvimento de sistemas
+## Nicolas Souza
 
-Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento de software, com foco na criação de sistemas eficientes, organizados e com boa performance. Tenho experiência com backend, banco de dados e também atuo com melhorias e suporte em sistemas corporativos.
+Desenvolvedor Backend | PHP • C# • SQL  
+Focado em performance, organização e desenvolvimento de sistemas eficientes  
+Experiência com desenvolvimento e suporte em sistemas corporativos  
 
-Tecnologias e Ferramentas
-<div style="display: inline_block"><br> <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </div>
+---
 
-Estatísticas
-<div> <a href="https://github.com/nicoragg"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoragg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoragg&layout=compact&langs_count=7&theme=dracula"/> </a> </div>
+## Sobre mim
 
-Contato
+Sou desenvolvedor com foco em backend e banco de dados, atuando na criação, manutenção e melhoria de sistemas. Busco sempre escrever código limpo, organizado e com boa performance, contribuindo para soluções escaláveis e eficientes.
 
-nicolassouza.sg@gmail.com
-+55 (41) 99705-2920
+---
+
+## Tecnologias e Ferramentas
+
+### Backend e Banco de Dados
+<div style="display: inline_block">
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+### Frontend
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+### Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+---
+
+## Contato
+
+Email: nicolassouza.sg@gmail.com  
+Telefone: +55 (41) 99705-2920  
