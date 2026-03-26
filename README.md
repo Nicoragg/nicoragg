@@ -12,7 +12,7 @@ Sou desenvolvedor com foco em backend e banco de dados, atuando na criação, ma
 
 ## Tecnologias e Ferramentas
 
-<div style="display: inline_block" padding: 1px;>
+<div style="display: inline_block" padding: 2px;>
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
