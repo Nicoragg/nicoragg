@@ -1,6 +1,6 @@
 ## Nicolas Gonçalves de Souza
 
-Desenvolvedor Backend | PHP • C# • SQL  
+Desenvolvedor | PHP • C# • SQL • HTML5 • CSS 
 Focado em performance, organização e desenvolvimento de sistemas eficientes  
 Experiência com desenvolvimento e suporte em sistemas corporativos  
 
